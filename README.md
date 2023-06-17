@@ -1,4 +1,4 @@
-# Object-Oriented Programming Ex_2
+# Thread vs ThreadPool - Object-Oriented Programming 
 
 ## Description
 This is the third task in Object-Oriented Programming course (OOP).
